@@ -5,8 +5,6 @@ I'm a software developer skilled in object-oriented programming, networks, and t
 <a href="mailto:xrhstosmous@gmail.com"> <img align="right" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> 
 [<img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/xrhstosmour/) 
 [<img align="right" src="https://img.icons8.com/fluent/48/000000/cv.png" width="3.5%"/>](https://drive.google.com/file/d/1QJHL3z1TsLke2G-E2ZVb_-CvfY5DXf_u/view?usp=sharing) [<img align="right" width="3.5%" alt="" src="https://img.icons8.com/fluent/48/000000/portfolio.png"/>](http://xrhstosmour.github.io/)
-  
----
 
 ## GitHub Statistics
 
@@ -16,8 +14,6 @@ I'm a software developer skilled in object-oriented programming, networks, and t
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" title="GitHub Languages">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </a>
-
----
 
 ## Technology Stack
 
