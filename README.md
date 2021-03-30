@@ -2,7 +2,8 @@
 
 I'm a software developer skilled in object-oriented programming, networks, and telecommunications. Highly interested about new technologies and mobile application development. Working effectively under pressure. Good team player, ingenious in difficult situations, who can easily follow instructions, assist, and propose implementations to improve user experience.
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/xrhstosmour/)  &nbsp; <a href="mailto:xrhstosmour@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://img.icons8.com/fluent/48/000000/portfolio.png" width="3.5%"/>](https://www.linkedin.com/in/xrhstosmour/) [<img src="https://img.icons8.com/fluent/48/000000/cv.png" width="3.5%"/>](https://drive.google.com/file/d/1QJHL3z1TsLke2G-E2ZVb_-CvfY5DXf_u/view?usp=sharing) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/xrhstosmour/) <a href="mailto:xrhstosmous@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
 ---
 
 ## GitHub Statistics
