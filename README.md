@@ -8,11 +8,11 @@ I'm a software developer skilled in object-oriented programming, networks, and t
 
 ## GitHub Statistics
 
-<a href="https://github-readme-stats.vercel.app/api?username=xrhstosmour&show_icons=true&count_private=true&theme=tokyonight" title="GitHub Statistics">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=xrhstosmour&show_icons=true&count_private=true&theme=tokyonight">
+<a href="https://github-readme-stats.vercel.app/api?username=xrhstosmour&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" title="GitHub Statistics">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=xrhstosmour&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117">
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&theme=tokyonight" title="GitHub Languages">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" title="GitHub Languages">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrhstosmour&layout=compact&show_icons=true&count_private=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </a>
 
 ---
