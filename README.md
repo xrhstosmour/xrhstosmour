@@ -2,6 +2,7 @@
 
 I'm a software developer skilled in object-oriented programming, networks, and telecommunications. Highly interested about new technologies and mobile application development. Working effectively under pressure. Good team player, ingenious in difficult situations, who can easily follow instructions, assist, and propose implementations to improve user experience.
 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/xrhstosmour/)  &nbsp; <a href="mailto:xrhstosmour@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 ---
 
 ## GitHub Statistics
@@ -77,5 +78,3 @@ I'm a software developer skilled in object-oriented programming, networks, and t
 ![Pi-hole](https://img.shields.io/badge/pi-hole-%23FF0000.svg?&style=for-the-badge&logo=pi-hole&logoColor=white)
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?&style=for-the-badge&logo=wireguard&logoColor=white)
 ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?&style=for-the-badge&logo=plex&logoColor=black)
-
-
