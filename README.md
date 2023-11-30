@@ -9,6 +9,8 @@
       <b>
         Hello there, I'm Christos!
         <br/>
+        Software Engineer focused on backend development, system architecture, and business application design.
+        <br/>
         Committed to innovation, efficiency, and fostering professional growth and knowledge exchange in tech.
         <br/>
         <a href="https://git.io/typing-svg">
