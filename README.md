@@ -14,7 +14,7 @@
         Committed to innovation, efficiency, and fostering professional growth and knowledge exchange in tech.
         <br/>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;separator=%3C&amp;lines=while(!(succeed+%3D+try()));" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=435&amp;separator=%3C&amp;lines=while(!(succeed+%3D+try()));" alt="Typing SVG" />
         </a>
         <br/>
       </b>
